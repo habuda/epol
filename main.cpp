@@ -6,6 +6,7 @@ int main()
 {
   cout << "hakuna" << endl;
   cout << "Hello World!";
+  cout << "\n \n";
   
   return 0;
 }
